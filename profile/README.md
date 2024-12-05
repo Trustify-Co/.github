@@ -20,11 +20,7 @@
 
 ## 🌐 Déploiement  
 
-Le projet est actuellement déployé sur : [Trustify.best](https://www.trustify.best)  
-
-## 📄 Licence  
-
-Ce projet est sous licence **MIT**. Cela signifie que vous êtes libre d'utiliser, de modifier et de distribuer ce projet, tant que vous incluez une copie de la licence originale. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.  
+Le projet est actuellement déployé sur : [Trustify.best](https://www.trustify.best)   
 
 ## 💡 À propos  
 
