@@ -1,7 +1,7 @@
 ![Trustify Banner](/images/Blue-Banner.jpeg)
 
 
-# Trustify  
+# [Trustify](https://www.trustify.best)   
 
 **Trustify** est une plateforme innovante qui permet de sécuriser les transactions entre particuliers grâce à un système d'avis vérifiés et de gestion de la réputation. Inspiré par des outils tels que Trustpilot, Trustify s'adresse spécifiquement au commerce et aux échanges entre particuliers.  
 
