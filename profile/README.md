@@ -1,4 +1,4 @@
-![Trustify Banner](images/Blue-Banner.jpeg)
+![Trustify Banner](/images/Blue-Banner.jpeg)
 
 
 # Trustify  
