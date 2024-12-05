@@ -12,15 +12,6 @@
 - 📊 **Gestion de la réputation** : Une vue claire et détaillée des notes et commentaires pour chaque utilisateur.  
 - 📱 **Interface conviviale** : Une expérience fluide et intuitive sur tous les appareils.  
 
-## 🏗️ Technologie utilisée  
-
-- **Frontend** : NextJS, Tailwind
-- **Backend** : Node.js, Hono.js 
-- **Base de données** : PostgreSQL
-- **Authentification** : JWT (JSON Web Token)  
-- **Infrastructure** : Hébergement sur Railway chez Cloudflare, intégration CI/CD via GitHub Actions avec TurboRepo
-- **Emailing** : Mailersend avec serveur SMTP d'OVH
-
 ## 🌐 Déploiement  
 
 Le projet est actuellement déployé sur : [Trustify.best](https://www.trustify.best)   
